@@ -1,0 +1,1 @@
+(()=>{console.log("Hello from the Webpack-bundled JavaScript!");const e=document.getElementById("root");if(e){const t=document.createElement("p");t.textContent="This text was rendered by the bundled JavaScript!",e.appendChild(t)}})();
